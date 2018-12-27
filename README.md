@@ -1,7 +1,7 @@
 # Deep Learning based Table Detection (LUMINOTH)
 Deep Learning based Table Detection (LUMINOTH)
 
-This project focuses on "Signature Verification" by [Keras and ObjectTensorFlow Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection). 
+This project focuses on "Detection Tables in PDF and Extract contents" by [Keras and ObjectTensorFlow Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection). 
 
 The system shall work in 2 steps:
 
