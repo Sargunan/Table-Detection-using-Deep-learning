@@ -45,7 +45,7 @@ https://youtu.be/cwIQlJRHuA4
 ## Result 1
 
 <p align="center">
-  <img src="imgs/result1.png" height="420" width="520>
+  <img src="imgs/output1.png" height="420" width="520>
 ">
 </p>
 
@@ -53,7 +53,7 @@ https://youtu.be/cwIQlJRHuA4
 
 ## Result 2
 <p align="center">
-  <img src="imgs/result2.jpg" height="420" width="520>
+  <img src="imgs/output2.jpg" height="420" width="520>
 ">
 </p>
 
