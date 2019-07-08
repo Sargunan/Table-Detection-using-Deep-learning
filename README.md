@@ -53,7 +53,7 @@ https://youtu.be/cwIQlJRHuA4
 
 ## Result 2
 <p align="center">
-  <img src="imgs/output2.jpg" height="420" width="520>
+  <img src="imgs/output2.png" height="420" width="520>
 ">
 </p>
 
